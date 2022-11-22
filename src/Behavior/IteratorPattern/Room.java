@@ -1,4 +1,4 @@
-package Behavior.IterratorPattern;
+package Behavior.IteratorPattern;
 
 public class Room {
     private String roomName;

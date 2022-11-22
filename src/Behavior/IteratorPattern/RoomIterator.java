@@ -1,4 +1,4 @@
-package Behavior.IterratorPattern;
+package Behavior.IteratorPattern;
 
 public interface RoomIterator<T> {
     boolean hasNext();

@@ -1,7 +1,5 @@
 package Creational.BuilderPattern;
 
-import Creational.BuilderPattern.Account;
-
 public interface AccountBuilder {
     AccountBuilder setId(int id);
     
